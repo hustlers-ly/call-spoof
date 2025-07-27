@@ -6,8 +6,9 @@ Welcome to our SIP service where you can make outbound calls worldwide using you
 
 ## 📽️ Video Tutorial: How to Use Our SIP Service with Zoiper
 
-Watch the step-by-step guide on YouTube:  
-▶️ **[How to Use Our SIP Service with Zoiper](https://www.youtube.com/watch?v=K4hCJ6OEbzs)**
+[![Watch the video](https://img.youtube.com/vi/K4hCJ6OEbzs/0.jpg)](https://www.youtube.com/watch?v=K4hCJ6OEbzs)
+
+🔗 <a href="https://www.youtube.com/watch?v=K4hCJ6OEbzs" target="_blank">Click here to open the video in a new tab</a>
 
 ---
 
@@ -25,21 +26,22 @@ After signup, you’ll receive:
 
 ## 📞 How to Set Caller ID in Zoiper
 
-1. Download [Zoiper](https://www.zoiper.com/en/voip-softphone/download/current) on your desktop or mobile.
+1. Download <a href="https://www.zoiper.com/en/voip-softphone/download/current" target="_blank">Zoiper</a> on your desktop or mobile.
 2. Go to **Settings > Accounts > Add Account**
 3. Select “SIP” and enter the following:
-    - **Username**: Your SIP username
-    - **Password**: Your SIP password
+    - **Username**: Your SIP username  
+    - **Password**: Your SIP password  
     - **Domain**: `sip.hustlers.ly`
 4. Save and start making calls!
+
 ---
 
 ## 🛠 Compatible With
 
-- ✅ Zoiper
-- ✅ Linphone
-- ✅ FreeSWITCH
-- ✅ Asterisk
+- ✅ Zoiper  
+- ✅ Linphone  
+- ✅ FreeSWITCH  
+- ✅ Asterisk  
 - ✅ Kamailio
 
 ---
@@ -48,4 +50,4 @@ After signup, you’ll receive:
 
 If you need help setting it up or want to test compatibility with your system:
 
-Visit: [https://hustlers.ly](https://hustlers.ly)
+🌐 <a href="https://hustlers.ly" target="_blank">Visit hustlers.ly</a>
